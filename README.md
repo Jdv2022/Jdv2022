@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Dennis Vistal</h1>
-<h3 align="center">Mechanical Engineering to Software Development</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdv2022&label=Profile%20views&color=0e75b6&style=flat" alt="jdv2022" /> </p>
 

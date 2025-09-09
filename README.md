@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdv2022" alt="jdv2022" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
-
-- 👨‍💻 All of my projects are available at [https://jdv2022.github.io/](https://jdv2022.github.io/)
-
 - 📫 How to reach me **johnden.vistal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
